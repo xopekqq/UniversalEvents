@@ -1,0 +1,7 @@
+name: UniversalEvents
+version: '${project.version}'
+main: ru.xopek.universalevents.UniversalEvents
+api-version: '1.16'
+commands:
+  universalevents:
+    aliases: [ events, event ]

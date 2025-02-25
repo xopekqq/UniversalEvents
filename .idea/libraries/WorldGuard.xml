@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="WorldGuard">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../evelxplugins/evelxlibs/WorldGuard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../evelxplugins/evelxlibs/worldedit-bukkit-7.2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

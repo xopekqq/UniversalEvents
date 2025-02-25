@@ -1,0 +1,16 @@
+events:
+  spawner:
+    displayName: "&eСпавнер"
+    announceMessage: "&cЗаспавнился ивент, бегом на спавнер!"
+    phases:
+      1:
+        displayName: "&cТест-Фаза №1"
+        timeout: 6500 # millis
+      2:
+        displayName: "&EТест-Фаза №2"
+        timeout: 6500 # millis
+  anchor:
+    eventDelay: 3600
+    announceMessage: "&cЙОУ !! Ивент заспавнился"
+    displayName: "&eЯкорь"
+

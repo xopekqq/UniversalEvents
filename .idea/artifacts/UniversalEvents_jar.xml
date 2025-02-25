@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UniversalEvents:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UniversalEvents_jar</output-path>
+    <root id="archive" name="UniversalEvents.jar">
+      <element id="module-output" name="UniversalEvents" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../evelxplugins/evelxlibs/DecentHolograms-2.8.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../evelxplugins/evelxlibs/WorldGuard.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../evelxplugins/evelxlibs/worldedit-bukkit-7.2.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
